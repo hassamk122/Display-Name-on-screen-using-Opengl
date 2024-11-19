@@ -1,3 +1,7 @@
+//Must include these parameters in linkers : 
+//-lopengl32
+//-lglu32
+//-lfreeglut
 #include <windows.h>
 #include <GL/glut.h>
 
