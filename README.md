@@ -1,3 +1,8 @@
+Must add these in Linkers in Project options > parameters:
+-lopengl32
+-lglu32
+-lfreeglut
+
 Output :
 
 
