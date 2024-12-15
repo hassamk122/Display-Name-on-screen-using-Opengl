@@ -5,6 +5,6 @@ Must add these in Linkers in Project options > parameters:
 
 Output :
 
+![image](https://github.com/user-attachments/assets/3e71862a-2102-40fe-8d10-d70211c612e7)
 
-![image](https://github.com/user-attachments/assets/60a8adfc-d3cc-4153-9005-c4bc1866e1d4)
 
