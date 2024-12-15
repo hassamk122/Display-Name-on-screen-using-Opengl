@@ -74,13 +74,12 @@ int main(int argc, char** argv)
     // selects display mode single is used for drawing and double for animations   GLUT-RBG means color mode is rgb
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     
-    // selects dimensions of windows we are displaying 
+    // selects dimensions of window we are displaying on
     glutInitWindowSize(800, 600);
     
-    // to display title on screen
+    // to display window title
     glutCreateWindow("Muhammad Hassam - Display Name Program");
     
-    // call init function
     init();
     // using render function in glut 
     glutDisplayFunc(render);
